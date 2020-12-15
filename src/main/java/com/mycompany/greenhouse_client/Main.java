@@ -60,6 +60,4 @@ public class Main {
         
         System.out.println("Response " + response.getEntity(String.class));
     }
-    
-    
 }
